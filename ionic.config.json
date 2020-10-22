@@ -1,0 +1,7 @@
+{
+  "name": "FoodProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
